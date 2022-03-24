@@ -26,7 +26,6 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  -webkit-font-smoothing: antialiased;
 }
 body {
   background: #fff;
@@ -799,7 +798,6 @@ blockquote {
   padding: 0 50px;
 }
 .navbar-header {
-  width: 20%;
   padding-right: 15px;
 }
 .navbar-header .logo-container {
@@ -1419,9 +1417,6 @@ blockquote {
 .panel-title a.collapsed:before {
   content: '+';
 }
-.panel-body {
-  padding: 25px 40px;
-}
 .panel-group .panel-heading + .panel-collapse .panel-body {
   border-top: none;
 }
@@ -1554,9 +1549,6 @@ blockquote {
 }
 .blog-post-info i {
   margin-right: 5px;
-}
-.blog-post-body {
-  padding: 15px 25px 25px;
 }
 .blog-post-body h4 {
   text-transform: capitalize;
